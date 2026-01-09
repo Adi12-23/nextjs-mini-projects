@@ -1,0 +1,11 @@
+.active {
+    color:#fff700;
+}
+.inactive {
+    color:#161515;
+}
+.base-class {
+    border-width:2px;
+    border-style: solid;    
+    border-color: #ffffff;
+}

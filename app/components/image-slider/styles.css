@@ -1,0 +1,67 @@
+.container {
+  position:relative;          /* Needed for absolute arrows and images */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 600px;
+  height: 450px;
+  margin: 0 auto;              /* Center the slider if needed */
+  overflow: hidden;            /* Prevent any overflow */
+}
+
+.current-image {
+  position: relative;          /* Overlay images */
+  top: 0;
+  left: 0;
+  border-radius: 0.5rem;
+  box-shadow: 0px 0px 7px #666;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;           /* Better image filling */
+}
+
+.hide-current-image {
+  display: none;               /* Only current image visible */
+}
+
+.arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 2rem;
+  height: 2rem;
+  color: #fff;
+  filter: drop-shadow(0px 0px 5px #555);
+  cursor: pointer;
+  z-index: 10;                 /* Above images */
+}
+
+.arrow-left {
+  left: 1rem;
+}
+
+.arrow-right {
+  right: 1rem;
+}
+
+.circle-indicator {            /* Fixed class name typo */
+  display: flex;
+  position: absolute;
+  bottom: 1rem;
+  z-index: 10;
+}
+
+.current-indicator {
+  background-color: #ffffff;
+  height: 15px;
+  width: 15px;
+  border-radius: 50%;
+  border: none;
+  outline: none;
+  margin: 0 0.2rem;
+  cursor: pointer;
+}
+
+.inactive-indicator {
+  background-color: gray;
+}
